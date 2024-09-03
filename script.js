@@ -21,11 +21,11 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "comidas",
+        enunciado: "O Brasil esta mal financeiramente por conta de quem?",
         alternativas: [
             {
-                texto: "dinheiro donativos",
-                afirmacao: "melhores opcao"
+                texto: "lula ladrao",
+                afirmacao: "Bolsonaro lindo"
             },
             {
                 texto: "imoveis para conforto de suas casas",
