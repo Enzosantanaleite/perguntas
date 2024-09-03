@@ -8,7 +8,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "qual seria o melhor presidente",
+        enunciado: "Qual seria o melhor presidente?",
         alternativas: [
             {
                 texto: "Bolsonaro",
