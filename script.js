@@ -11,7 +11,8 @@ const perguntas = [
         enunciado: "qual seria o melhor presidente",
         alternativas: [
             {
-                texto: "bolsonaro ou lula!",
+                texto: "Bolsonaro
+                 ",lula
                 afirmacao: "de acordo com varias pesquisas e de acordo com o povo bolsonaro seria a melhor opcao "
             },
             {
