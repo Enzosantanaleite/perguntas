@@ -28,7 +28,7 @@ const perguntas = [
                 afirmacao: "Bolsonaro lindo"
             },
             {
-                texto: "imoveis para conforto de suas casas",
+                texto: "Bolsonaro lindo",
                 afirmacao: "todas opcao justas de acordo"
             }
         ]
