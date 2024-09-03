@@ -16,7 +16,7 @@ const perguntas = [
                 afirmacao: "de acordo com varias pesquisas e de acordo com o povo bolsonaro seria a melhor opcao "
             },
             {
-                texto: "o melhor sentido de uma boa acao ao pais referente ao rio grande do sul seria",
+                texto: "Lula ladrao",
                 afirmacao: "Ajudar por meio de comidas imoveis ou ate mesmo dinheiro"
             }
         ]
