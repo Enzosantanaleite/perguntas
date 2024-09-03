@@ -34,14 +34,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "brasil sofrera danos ao esse governo",
+        enunciado: "brasil sofrera danos graves ao governo por que?",
         alternativas: [
             {
-                texto: "de acrodo com o povo sim",
+                texto: "de acrodo com o povo o Lula que nao administra",
                 afirmacao: "provas a favor"
             },
             {
-                texto: "nao o pais esta bem financeiro",
+                texto: "nao o pais esta bem financeiro, quase nao pagamos imposto",
                 afirmacao: "nao o pais nao esta bem"
             }
         ]
